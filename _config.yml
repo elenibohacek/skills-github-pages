@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: solarized-dark
 
 title: Eleni is learning how to make websites
 
