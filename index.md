@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Eleni Bohacek's Digital Garden
 ---
 # Eleni's Coding Projects & Blog
 
